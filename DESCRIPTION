@@ -1,0 +1,11 @@
+Package: CRTpower
+Type: Package
+Title: Power Analysis for Cluster Randomized trials
+Version: 0.1.0
+Author: Alex Lishinski
+Maintainer: Alex Lishinski <alexlishinski@gmail.com>
+Description: Power analysis calculations for 2, 3, amd 4 level cluster randomized trials. 
+    Uses formulas from Powerup software
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
